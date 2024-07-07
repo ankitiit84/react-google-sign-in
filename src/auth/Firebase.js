@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCMDowHoG1ckdRJNoPJHnvyfEITwr2q8y0",
+    apiKey: "ADD API KEY HERE",
     authDomain: "playground-426904.firebaseapp.com",
     projectId: "playground-426904",
     storageBucket: "playground-426904.appspot.com",
