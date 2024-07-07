@@ -24,15 +24,6 @@ function App() {
                       }
                   />
               </Routes>
-
-
-              {/*<div className="App">*/}
-              {/*    <button onClick={signInWithGoogle}>Sign in With Google</button>*/}
-              {/*    <button onClick={signOutWithGoogle}>Sign out</button>*/}
-              {/*    <h1>{localStorage.getItem("name")}</h1>*/}
-              {/*    <h1>{localStorage.getItem("email")}</h1>*/}
-              {/*    <img src={localStorage.getItem("profilePic")} alt={""}/>*/}
-              {/*</div>*/}
           </AuthContextProvider>
       </div>
   );
